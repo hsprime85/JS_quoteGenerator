@@ -1,4 +1,4 @@
-# JS_quoteGenerator
+# JS_quoteGenerator_Project
 JS_quoteGenerator
 
 Quote Generator using simple api,
